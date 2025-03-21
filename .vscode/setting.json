@@ -1,0 +1,14 @@
+{
+    "workbench.preferredDarkColorTheme": "Vitesse Dark",
+    "editor.fontFamily": "'JetBrains Mono',monospace",
+    "workbench.settings.applyToAllProfiles": ["editor.fontSize"],
+    "settingsSync.ignoredSettings": ["editor.fontFamily"],
+    "remote.SSH.remotePlatform": {
+      "10.70.42.151": "linux"
+    },
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "Vitesse Dark Soft",
+    "editor.fontSize": 18,
+    "copilot":false
+  }
